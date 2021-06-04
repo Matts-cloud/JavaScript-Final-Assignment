@@ -31,5 +31,5 @@ The controlls for Sprinkler Run are quite basic but never the less they are as f
 
 ## Class Diagram
 
-![Sprinkler Run Class Diagram](https://github.com/CostaHiripis/JavaScript-Final-Assignment/resources/classDiagram.png "Sprinkler Run Class Diagram")
+![Sprinkler Run Class Diagram](./resources/classDiagram.png "Sprinkler Run Class Diagram")
 
